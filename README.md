@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Aletheios42 👋
 
-<!--
-**Aletheios42/Aletheios42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador con experiencia en [tus habilidades].
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes**: JavaScript, Python, 
+- **Frameworks**: React, Node.js, 
+- **Herramientas**: Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
+
+## 📫 Contacto
+- [LinkedIn](enlace)
+- [Portafolio](enlace)
+- Correo: tuemail@example.com
