@@ -7,10 +7,10 @@
 ### 🤓 Who am I? (Briefly):
 
 - 🔵 I’m currently learning React.js.
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2024 Goals: Learn to build big projects using more tools and PL.
-- 📽️ Fun fact 1 : I am a Youtuber with +1k Views.
-- 🏊‍♂️ Fun fact 2 : I am a part-time Swimming coach.
+- 📽️ Fun fact 1: I am a Youtuber with +1k Views.
+- 🏊‍♂️ Fun fact 2: I am a part-time Swimming coach.
 
 <br/>
 <hr>
@@ -19,20 +19,19 @@
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=fadyehabamer)
-[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/fadyehabamer.svg)](https://user-badge.committers.top/egypt/fadyehabamer)
+![profile visit](https://komarev.com/ghpvc/?username=Aletheios42)
+[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/Aletheios42.svg)](https://user-badge.committers.top/egypt/Aletheios42)
 
+![](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=fadyehabamer&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fadyehabamer&theme=light&hide_border=false)<br/>
-     
 </div>
 
 </p>
 <hr>
 <p>
-    
-### 👨‍💻Connect with me
+
+### 👨‍💻 Connect with me
 
 [<img align="left" alt="w  | Website" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img  align="left" alt="f | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -51,9 +50,9 @@
 ### 🏆 Github trophies
 
 <p>
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
-    
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Aletheios42&margin-w=15theme=dark)
+
 </p>
 
 <hr>
@@ -76,7 +75,7 @@
 
 <hr>
 
-### 🌎Problem Solving website progress
+### 🌎 Problem Solving website progress
 
 <table border = "1" bordercolor = "blue">
    <tr>
@@ -89,7 +88,7 @@
    
    <tr>
     <td>Leetcode</td>
-    <td>https://leetcode.com/fadyehabamer/</td>
+    <td>https://leetcode.com/Aletheios42/</td>
     <td>Lvl 1</td>
     <td>3 problems</td>
     <td>Javascript</td>
@@ -97,7 +96,7 @@
    
   <tr>
     <td>CoderHub</td>
-    <td>https://profile.satr.codes/user/fadyehabamer</td>
+    <td>https://profile.satr.codes/user/Aletheios42</td>
     <td>4 Stars Skill</td>
     <td>97 problems</td>
     <td>Javascript</td>
@@ -107,9 +106,9 @@
 
 <br />
 
-[website]: https://www.fadyehabamer.com/
-[twitter]: https://twitter.com/fadyehabamer
+[website]: https://www.Aletheios42.com/
+[twitter]: https://twitter.com/Aletheios42
 [youtube]: https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
-[instagram]: https://www.instagram.com/fadyehabamer00/
-[linkedin]: https://www.linkedin.com/in/fadyehabamer/
-[facebook]: https://www.facebook.com/fadyehabamer/
+[instagram]: https://www.instagram.com/Aletheios42/
+[linkedin]: https://www.linkedin.com/in/Aletheios42/
+[facebook]: https://www.facebook.com/Aletheios42/
