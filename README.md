@@ -2,16 +2,15 @@
 
 ### 🤓 Who am I? (Briefly):
 
-- 🔵 I’m currently learning React.js.
+- 🔵 I’m currently working.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2024 Goals: Learn to build big projects using more tools and PL.
-- 📽️ Fun fact 1: I am a Youtuber with +1k Views.
-- 🏊‍♂️ Fun fact 2: I am a part-time Swimming coach.
+- 🥅 2025 Goals: Learn to build big projects using more tools and PL.
+
 
 <br/>
 <hr>
 
-### 👦 Github Stats:
+### Github Stats:
 
 <div align="left">
 
@@ -29,12 +28,12 @@
 
 ### 👨‍💻 Connect with me
 
-[<img align="left" alt="w  | Website" width="45px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img  align="left" alt="f | YouTube" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left"  alt="f | Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="f | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="f | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="f | Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="w  | Website" width="45px" src="" />][website]
+[<img  align="left" alt="f | YouTube" width="45px" src="" />][youtube]
+[<img align="left"  alt="f | Twitter" width="45px" src="" />][twitter]
+[<img align="left" alt="f | LinkedIn" width="45px" src="" />][linkedin]
+[<img align="left" alt="f | Instagram" width="45px" src="" />][instagram]
+[<img align="left" alt="f | Facebook" width="45px" src="" />][facebook]
 
 </p>
 
@@ -60,15 +59,8 @@
 <br />
 <hr>
 
-### 📺 Latest YouTube Videos
-
-- [SVG Text animation 🔅🔆 using CSS3](https://www.youtube.com/watch?v=4nMoIKhY0JM&t=13s)
-- [Custom cursor ❌ using pure css3!](https://www.youtube.com/watch?v=mCyXI00u2f4&t=3s)</br>
-- [Hinata card ♾️ using Css3!](https://www.youtube.com/watch?v=KJCMXjVpsG0&t=397s) <br/>
-- [Firework effects 🎇 using Jquery plugin](https://www.youtube.com/watch?v=cqfYSoXj_UQ) <br/>
-- [Hover effect 👆 using pure css3](https://www.youtube.com/watch?v=S2XvcUWyKWQ&t=18s) <br/>
-- [Windows 10 Loader 😴 Using Css3 Animation](https://www.youtube.com/watch?v=zmYSQGYb0eM) <br/>
-
+### 📺 Latest Blogs
+TBD
 <hr>
 
 ### 🌎 Problem Solving website progress
@@ -76,7 +68,7 @@
 <table border = "1" bordercolor = "blue">
    <tr>
     <td>Edabit</td>
-    <td>https://edabit.com/user/DXa4QWAASdwrmo42q</td>
+    <td>https:</td>
     <td>Lvl 7</td>
     <td>1,180 XP</td>
     <td>Javascript</td>
