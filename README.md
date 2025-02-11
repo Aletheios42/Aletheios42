@@ -1,7 +1,3 @@
-<p align="center">
-   <img src="banner.png">
-</p>
-
 <br/>
 
 ### 🤓 Who am I? (Briefly):
