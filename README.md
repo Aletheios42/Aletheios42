@@ -1,102 +1,43 @@
-<br/>
+### Perfil Profesional
 
-### 🤓 Who am I? (Briefly):
+- **Profesor de Linux y Angular**: Impartiendo cursos durante los últimos 2 meses, disfrutando y aprendiendo en el proceso.
+- **Experiencia en Educación**: Más de 3 años como profesor autónomo de matemáticas.
+- **Objetivos 2025**: Convertirme en un "tech funk", dominando la implementación y conexión de sistemas, programación y despliegue, mientras mantengo un estilo de vida saludable y agradecido.
 
-- 🔵 I’m currently working as system admin/programing teacher.
-- 👯 I’m looking to collaborate with other developers in open source proyects.
-- 🥅 2025 Goals: TBD.
+### Estadísticas de GitHub
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Aletheios42)
 
-<br/>
-<hr>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false)
 
-### Github Stats:
+### Repositorios Destacados
 
-<div align="left">
+- [Dotfiles](https://github.com/Aletheios42/dotfiles): Configuraciones personalizadas para entornos de desarrollo.
+- [42](https://github.com/Aletheios42/42): Proyectos y ejercicios realizados durante el programa 42.
+- [Calculadora de Integrales por el Método Monte Carlo](https://github.com/Aletheios42/Calculadora-MonteCarlo): Herramienta para aproximar integrales utilizando el método Monte Carlo.
 
-![profile visit](https://komarev.com/ghpvc/?username=Aletheios42)
-[![Most Active User on GitHub in EGYPT](https://user-badge.committers.top/egypt/Aletheios42.svg)](https://user-badge.committers.top/egypt/Aletheios42)
+### Tecnologías y Herramientas
 
-![](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false)<br/>
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23E44D26.svg?style=for-the-badge&logo=foundry&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
+### Conecta Conmigo
 
-</p>
-<hr>
-<p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pintos-alcarazo-5b750b315/)
 
-### 👨‍💻 Connect with me
+### Blog Personal
 
-[<img align="left" alt="w  | Website" width="45px" src="" />][website]
-[<img  align="left" alt="f | YouTube" width="45px" src="" />][youtube]
-[<img align="left"  alt="f | Twitter" width="45px" src="" />][twitter]
-[<img align="left" alt="f | LinkedIn" width="45px" src="" />][linkedin]
-[<img align="left" alt="f | Instagram" width="45px" src="" />][instagram]
-[<img align="left" alt="f | Facebook" width="45px" src="" />][facebook]
-
-</p>
-
-<br /> 
-<br />
-<br />
-<hr>
-
-### 🏆 Github trophies
-
-<p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aletheios42&margin-w=15theme=dark)
-
-</p>
-
-<hr>
-
-# 💻 Tech Stack:
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) !
-
-<br />
-<hr>
-
-### 📺 Latest Blogs
-TBD
-<hr>
-
-### 🌎 Problem Solving website progress
-
-<table border = "1" bordercolor = "blue">
-   <tr>
-    <td>Edabit</td>
-    <td>https:</td>
-    <td>Lvl 7</td>
-    <td>1,180 XP</td>
-    <td>Javascript</td>
-  </tr>  
-   
-   <tr>
-    <td>Leetcode</td>
-    <td>https://leetcode.com/Aletheios42/</td>
-    <td>Lvl 1</td>
-    <td>3 problems</td>
-    <td>Javascript</td>
-  </tr>  
-   
-  <tr>
-    <td>CoderHub</td>
-    <td>https://profile.satr.codes/user/Aletheios42</td>
-    <td>4 Stars Skill</td>
-    <td>97 problems</td>
-    <td>Javascript</td>
-  </tr>
- 
-</table>
-
-<br />
-
-[website]: https://www.Aletheios42.com/
-[twitter]: https://twitter.com/Aletheios42
-[youtube]: https://www.youtube.com/channel/UCgTxQ_Im4hFWgPM4Qgq6KzA?view_as=subscriber
-[instagram]: https://www.instagram.com/Aletheios42/
-[linkedin]: https://www.linkedin.com/in/Aletheios42/
-[facebook]: https://www.facebook.com/Aletheios42/
+Actualmente trabajando en la creación de un blog personal.
