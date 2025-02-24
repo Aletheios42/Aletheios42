@@ -5,7 +5,9 @@
 - 🤝 **Open Source Collaboration**: Willing to contribute to open-source projects. Feel free to reach out!
 
 ---
+<a href="https://github.com/aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a>
 
+--- 
 ## 🔗 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pintos-alcarazo-5b750b315/)  
