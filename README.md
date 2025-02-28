@@ -14,9 +14,8 @@
 ---
 ## 📊 GitHub Statistics
 
-| GitHub Top Languages | GitHub Stats | Contribution Streak |
-| -------------------- | ------------ | ------------------- |
-| <a href="https://github.com/Aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true) | ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false) |
+
+ <a href="https://github.com/Aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a>  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true) ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false)
 
 
 
