@@ -1,7 +1,7 @@
 ## 👨‍🏫 Professional Profile
 
-- 📚 **Teaching Experience**: Several years teaching in various fields, from mathematics to system administration and web development.
-- 🎯 **2025 Goals**: Homelab to run my personal projects on pods, Finishing 42Cursus.
+- 📚 **Education**: Several years teaching in various fields, from mathematics to system administration and web development.
+- 🎯 **2025 Goals**: Homelab to run my personal projects on pods, Finishing 42Cursus and leaving EU.
 - 🤝 **Open Source Collaboration**: Willing to contribute to open-source projects. Feel free to reach out!
 
 --- 
@@ -31,8 +31,8 @@
 - 📊 [**Monte Carlo Integral Calculator**](https://github.com/Aletheios42/Calculadora-MonteCarlo): Tool for approximating integrals using the Monte Carlo method.
 
 ---
-## 📊 GitHub Statistics
+| Top Languages | GitHub Stats | Contribution Streak |
+|---------------|--------------|---------------------|
+| <a href="https://github.com/Aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true) | ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false) |
 
-
- <a href="https://github.com/Aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a>  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true) ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false)
 
