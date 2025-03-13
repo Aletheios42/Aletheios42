@@ -33,6 +33,5 @@
 ---
 | Top Languages | GitHub Stats | Contribution Streak |
 |---------------|--------------|---------------------|
-| <a href="https://github.com/Aletheios42"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletheios42&&layout=compact"/></a> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aletheios42&theme=light&hide_border=false&include_all_commits=true&count_private=true) | ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aletheios42&theme=light&hide_border=false) |
-
+| [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aletheios42&layout=compact)](https://github.com/Aletheios42) | [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aletheios42&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Aletheios42) | [![Contribution Streak](https://streak-stats.demolab.com/?user=Aletheios42)](https://github.com/Aletheios42) |
 
