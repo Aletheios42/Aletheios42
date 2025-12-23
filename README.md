@@ -1,13 +1,9 @@
 ## Professional Profile
 
 - **Education**: Several years teaching in various fields, from mathematics to system administration and web development.
-- **2025 Goals**: Homelab to run my personal projects on pods, Finishing 42Cursus and leaving EU.
 - **Open Source Collaboration**: Willing to contribute to open-source projects. Feel free to reach out!
 
 --- 
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pintos-alcarazo-5b750b315/)  
 
 📌 Currently working on building a personal blog.
 
@@ -25,12 +21,5 @@
 
 ## Coolest Repositories  
 
-- [**Second Brain**](https://github.com/Aletheios42/SecondBrain): Personal repository where I store and organize my notes and knowledge.  
 - [**Dotfiles**](https://github.com/Aletheios42/dotfiles): Customized development environment configurations.  
-- [**Monte Carlo Integral Calculator**](https://github.com/Aletheios42/Calculadora-MonteCarlo): Tool for approximating integrals using the Monte Carlo method.
-
----
-| Top Languages | GitHub Stats | Contribution Streak |
-|---------------|--------------|---------------------|
-| [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aletheios42&layout=compact)](https://github.com/Aletheios42) | [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aletheios42&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Aletheios42) | [![Contribution Streak](https://streak-stats.demolab.com/?user=Aletheios42)](https://github.com/Aletheios42) |
-
+- [**Monte Carlo Integral Calculator**](https://github.com/Aletheios42/MonteCarlo): Tool for approximating integrals using the Monte Carlo method.
